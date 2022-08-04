@@ -1,4 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap"); /* global classes */
+/* sass template */
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap");
+/* global classes */
 button, button:focus {
   outline: none !important;
   box-shadow: none !important;
